@@ -19,6 +19,8 @@ body{
 
 }
 .box{
+    width:100%;
+    height: 100%;
     background-color: #BCE2F8 !important ;
     float: left;
     display: inline-flex;
